@@ -2,7 +2,6 @@
 
 
 *🔭 I’m currently working on the Java backend development.<br>
-
 *🌱 I’m constantly learning new things in backend development. <br>
 *👯 I’m looking to collaborate on solving technically complex problems  <br>
 *🤔 I’m looking for a position as a Software Developer fresher. <br>
