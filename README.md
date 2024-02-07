@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Archit from India, and I do work on Java backend development and problem solvings . I really enjoy learning languages and technologies like Maven, Redis and Kafka as well as work in Cloud Computing. I also enjoy solving competitive programming questions in general.
+I'm Archit from India, and I do work on Java and software development and problem solvings . I really enjoy learning languages and technologies. I also enjoy solving competitive programming questions in general.
 
-*🔭 I’m currently working on the Java backend development.<br>
-*🌱 I’m constantly learning new things in backend development. <br>
+*🔭 I’m currently working on the web development.<br>
+*🌱 I’m constantly learning new things in computer science. <br>
 *👯 I’m looking to collaborate on solving technically complex problems  <br>
 *🤔 I’m looking for a position as a Software Developer fresher. <br>
 *💬 Ask me about literally anything!! <br>
